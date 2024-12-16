@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Domain/Domain.csproj",
+      "projectUniqueName": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Ecommerce-market/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Domain/Domain.csproj",
+      "projectPath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Ecommerce-market/Domain/Domain.csproj",
       "packagesPath": "/home/juan/.nuget/packages/",
-      "outputPath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Domain/obj/",
+      "outputPath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Ecommerce-market/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/juan/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xh/b/1MqchBLYRz/jEENOnn5JWzz17p6VReoOm13xc89HW4OHeF84KLjXD3ZhowJopNUkqGq7RBnalqS5LOY+A==",
+  "dgSpecHash": "foOdG5lETJiKIgI50VsMM42EavTviP5wca9absP6jmA3P98XNyY9iamoBj0JZQ9F0UhecvbnemvuSha8RZU+Hw==",
   "success": true,
-  "projectFilePath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Aplication/Aplication.csproj",
+  "projectFilePath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Ecommerce-market/Aplication/Aplication.csproj",
   "expectedPackageFiles": [
     "/home/juan/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/juan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

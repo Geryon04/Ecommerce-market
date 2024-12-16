@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1oDPNgj7uYgjsLFHm4O0e7wjjveQe0FXjWKOsfxUvSPuXhuO99/d9DBKBCMdtyRmdFCeNsuBsMOw5qxRM6xCSQ==",
+  "dgSpecHash": "/lr+SdRG8airXnVLK27MyDI0lJvXrzwHvkEkknQ7Q3nE5nkPPgqw8cGd1mbzWS6oabTabVG7vFq6HzQqPW+UeA==",
   "success": true,
-  "projectFilePath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Domain/Domain.csproj",
+  "projectFilePath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Ecommerce-market/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

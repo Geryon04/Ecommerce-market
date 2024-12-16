@@ -6,6 +6,7 @@ using Domain.Entities;
 using Infraestructure.EntityConfig;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace Infraestructure.Persistence
 {
     public class AppDbContext : DbContext
@@ -17,6 +18,10 @@ namespace Infraestructure.Persistence
         
         public AppDbContext(DbContextOptions options) : base(options)
         {
+        }
+
+        public AppDbContext(){
+
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder){

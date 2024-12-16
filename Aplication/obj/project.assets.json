@@ -334,11 +334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Aplication/Aplication.csproj",
+      "projectUniqueName": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Ecommerce-market/Aplication/Aplication.csproj",
       "projectName": "Aplication",
-      "projectPath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Aplication/Aplication.csproj",
+      "projectPath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Ecommerce-market/Aplication/Aplication.csproj",
       "packagesPath": "/home/juan/.nuget/packages/",
-      "outputPath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Aplication/obj/",
+      "outputPath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Ecommerce-market/Aplication/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/juan/.nuget/NuGet/NuGet.Config"
@@ -353,8 +353,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Domain/Domain.csproj": {
-              "projectPath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Domain/Domain.csproj"
+            "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Ecommerce-market/Domain/Domain.csproj": {
+              "projectPath": "/home/juan/Documentos/proyectos simples/proyectos web/practica API/Ecommerce-market/Domain/Domain.csproj"
             }
           }
         }
@@ -394,7 +394,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
