@@ -10,9 +10,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 //custom
-var connectionString = builder.Configuration.GetConnectionString("ConnectionString");
+var connectionString = builder.Configuration["ConnectionString"];
 
-builder.Services.AddDbContext<AppDbContext>(opt => opt.UseMySQL(connectionString));
+builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(connectionString));
+
+//builder.Services.AddDbContext<AppDbContext>(opt => opt.UseMySQL(connectionString));
 
 var app = builder.Build();
 
